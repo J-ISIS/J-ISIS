@@ -1,0 +1,23 @@
+J-ISIS New UNESCO Java ISIS
+
+The J-ISIS project’s mission and goals are to develop a new multiplatform 
+Free and Open Source Software (FOSS)  ISIS suite that would provide the same
+successful concepts and functionalities as the actual UNESCO ISIS suite while
+removing the restrictions, being Client/Server, UNICODE, and benefiting of the 
+latest software developments. One of the objectives was also to keep the 
+assets and experience of the users. But the main objective is also to develop
+a long-term solution that would be modular, easy maintainable and extensible.
+
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+For the complete terms of the GNU General Public License, please see this URL:
+http://www.gnu.org/licenses/gpl-2.0.html
